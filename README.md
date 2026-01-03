@@ -1,4 +1,4 @@
-
+ 
 [![Snyk logo](https://snyk.io/style/asset/logo/snyk-print.svg)](https://snyk.io) 
 
 # Helm Chart for Snyk Broker
